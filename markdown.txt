@@ -1,0 +1,51 @@
+Cabeçalho
+
+msm coisa q o h1, h2 do html, só que nesse caso é 
+representado por 
+# -> h1
+## -> h2 
+e assim por diante
+
+Ênfase 
+
+simbolos para dar enfase ao texto
+
+negrito: **texto** ou __texto__
+italico: *texto* ou _texto_
+
+Listas
+
+não ordenadas começam com 
+* item
+
+ordenadas começam com 
+1. item 
+
+Imagens
+
+pode estar no repo ou ser externa
+
+![Texto Alt](link imagem);
+
+Links 
+
+[Texto do link](link)
+
+se for link do github pode inserir de forma direta usando:
+https://github.com
+
+Link com imagem
+
+[![Texto do link](link)](link)
+
+Código 
+
+```código```
+
+Task list - Lista de tarefas
+
+tarefas concluídas: 
+- [x] CSS do rodapé
+
+tarefas não concluidas: 
+- []CSS da página de contatos
