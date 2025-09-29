@@ -38,6 +38,7 @@ o tipo fada em particular é um caso um pouco diferente do tipo gelo, pois ele f
 nos jogos para ter mais um tipo counter dos tipo dragão, que por muito tempo dominou o game, porém, os 2
 tipos também se mantiveram escassos para que o dragão não perdesse seu impacto na aventura, o qual, apesar de 
 ser bem forte, possui resistências e fraquezas equilibradas, o que permitem aparecer em um número um pouco
-maior, em questão do tipo voador é um caso a parte, no caso ele ocupa a menor parcela, cerca de 1.02% não por ser um tipo raro
+maior, em questão do tipo voador é um caso a parte, no caso ele ocupa a menor parcela, cerca de 1.02% não 
+por ser um tipo raro
 mas por geralmente ser uma tipagem secundária, como esse estudo é baseado nos tipos primários ele acabou 
 ficando em menor posição.
