@@ -1,32 +1,9 @@
-4 - O gráfico de pizza mostra uma vantagem significativa na existência de Pokémons do tipo Água(12,54%) e do tipo 
-Normal(11,18%) em relação ao total, uma causa disso pode se dar ao fato dos 2 tipos serem equilibrados em relação
-a outros, visto que o tipo Água possui poucas fraquezas(Apenas Elétrico e Planta) e do tipo Normal ser um tipo neutro 
-que não possui muitas vantagens e desvantagens, além de serem mais numerosos nas rotas iniciais, o que 
-torna este tipo muito amigável para que jogadores iniciantes se acostumem com a mecânica do jogo, enquanto 
-tipos mais raros como Dragão tornam-se alvos de desejo aumentando a emoção ao encontrar, capturar e treinar um
-deles.
-Por outro lado, tipos como Gelo(2,30%) e Fada(2,73%) são escassos intencionalmente com a mesma finalidade de 
-manter o equilibrio, o caso do tipo Fada em particular se diferencia do tipo Gelo, pois ele foi introduzido 
-tardiamente nos jogos para ser mais um counter dos tipo Dragão, que, por conta de seu baixo número de 
-fraquezas e seus altos stats por muito tempo dominou o game, contudo, os 2 tipos se mantiveram escassos para que o tipo
-Dragão não perdesse seu impacto na aventura.
-Já o tipo Voador(1,02%) acaba por ser um caso a parte,ele tem uma participação baixa desta forma não por ser um 
-tipo raro, mas por geralmente aparecer como tipagem secundária, como este estudo é baseado nos tipos primários
-ele acabou ocupando uma menor posição.
+O gráfico de barras apresenta a média de Defesa base dos Pokémon por tipo. Observa-se que os tipos Aço, Pedra e Terrestre possuem as maiores médias de Defesa, indicando uma alta capacidade de 
+resistência e durabilidade em combate. Esses tipos são conhecidos por sua habilidade em resistir a ataques físicos, tornando-se ótimos para proteger contra danos de alto impacto. Em contraste, 
+os tipos Normal, Elétrico e Voador apresentam as menores médias de Defesa, sugerindo que esses tipos podem ser mais vulneráveis a ataques diretos, compensando essa fraqueza com estratégias 
+alternativas, como velocidade ou ataques especiais.
 
-5 - O objetivo desta análise é comparar a distribuição de Pokémon com e sem tipo secundário, a fim de identificar 
-padrões de design e entender como a combinação de tipos influencia diversidade e estratégia dentro do jogo.
-    O gráfico de pizza apresenta a porcentagem de Pokémon com e sem tipo secundário. Observa-se que a maioria dos 
-Pokémon (53,79%) possui um tipo secundário, enquanto 46,21% possuem apenas o tipo primário.
-Mais da metade dos Pokémon tem tipo secundário, o que mostra que os designers valorizam combinações de tipos para aumentar diversidade estratégica.
-A presença de Pokémon somente com tipo primário ainda é relevante, pois provavelmente são mais simples ou comuns, facilitando aprendizado inicial do jogador.
-Essa proporção também pode refletir equilíbrio do jogo: mais combinações criam mais complexidade, mas ainda mantêm uma base sólida de Pokémon simples.
+Essa distribuição revela como o jogo mantém um balanceamento estratégico, com tipos de alta defesa oferecendo resistência e tipos mais vulneráveis focando em aspectos como agilidade, 
+habilidades especiais ou controle de status. Nos combates, Pokémon de tipos como Aço e Pedra podem ser excelentes para absorver danos, enquanto tipos como Elétrico e Voador precisarão usar 
+sua velocidade e habilidades táticas para evitar danos diretos.
 
-Para o jogo:
-
-Combinações de tipos permitem criar vantagens e desvantagens estratégicas, tornando batalhas mais interessantes.
-
-Pokémon de tipo único geralmente são fáceis de balancear e introdutórios para o jogador iniciante.
-Jogadores competitivos podem usar essas informações para montar equipes balanceadas.
-
-Fãs podem perceber a diversidade como um elemento de colecionismo e estratégia.
