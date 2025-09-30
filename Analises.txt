@@ -1,9 +1,0 @@
-O gráfico de barras apresenta a média de Defesa base dos Pokémon por tipo. Observa-se que os tipos Aço, Pedra e Terrestre possuem as maiores médias de Defesa, indicando uma alta capacidade de 
-resistência e durabilidade em combate. Esses tipos são conhecidos por sua habilidade em resistir a ataques físicos, tornando-se ótimos para proteger contra danos de alto impacto. Em contraste, 
-os tipos Normal, Elétrico e Voador apresentam as menores médias de Defesa, sugerindo que esses tipos podem ser mais vulneráveis a ataques diretos, compensando essa fraqueza com estratégias 
-alternativas, como velocidade ou ataques especiais.
-
-Essa distribuição revela como o jogo mantém um balanceamento estratégico, com tipos de alta defesa oferecendo resistência e tipos mais vulneráveis focando em aspectos como agilidade, 
-habilidades especiais ou controle de status. Nos combates, Pokémon de tipos como Aço e Pedra podem ser excelentes para absorver danos, enquanto tipos como Elétrico e Voador precisarão usar 
-sua velocidade e habilidades táticas para evitar danos diretos.
-
